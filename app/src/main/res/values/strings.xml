@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyBattery</string>
+    <string name="menu_settings">Settings</string>
+    <string name="channel_description">Running in background</string>
+    <string name="title_activity_history_on_click_view">ScrollingActivity</string>
+    <string name="title_activity_log">ScrollingActivity</string>
+    <string name="history_rb_text">( %1$d | %2$d ) %3$s%%/h</string>
+    <string name="history_lm_text">%1$d%% to %2$d%%"</string>
+    <string name="log">Log</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Show Deleted Apps in App Usage</string>
+    <string name="notification_reset_seekbar_title">Set limit</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="menu_stop_service">Start/Stop Service</string>
+    <string name="open_usage_setting_button">Click Here to open Usage Settings</string>
+    <string name="todo">TODO</string>
+    <string name="log_dummy_main_battery">Welcome :)</string>
+    <string name="switch_no_data">Oh No, No Data, Please verify that Usage Access Permission is given.</string>
+    <string name="sort">Sort ⥯ </string>
+    <string name="rom_name">ROM :</string>
+    <string name="notification_reset_enabler_title">Enable reset notification</string>
+    <string name="notification_reset_enabler_summary">Reset Notification at specific battery level</string>
+    <string name="menu_migrate">Migrate</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="temp_red">#D50000</color>
+    <color name="temp_yellow">#ECB900</color>
+    <color name="charging_green">#2B8E00</color>
+    <color name="text">#DDDDDD</color>
+    <color name="white_on_day">#000000</color>
+    <color name="black_on_day">#F1F1F1</color>
+    <color name="accent_color">#7BC4FB</color>
+    <color name="lineSelectedPosition">#AD0E1721</color>
+
+    <color name="infoWindowBackground">#FF202b38</color>
+    <color name="infoWindowShadow">#5C000000</color>
+
+    <color name="navFill">#BD19232E</color>
+    <color name="navBorders">#477DA9CA</color>
+    <color name="navTapCircle">#8043515c</color>
+
+</resources>

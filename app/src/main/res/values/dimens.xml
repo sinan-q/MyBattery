@@ -1,0 +1,42 @@
+<resources>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="paddingDefault">16dp</dimen>
+
+    <!-- title -->
+    <dimen name="titleFontSize">16sp</dimen>
+    <dimen name="minTitleHeight">8dp</dimen>
+    <dimen name="titlePaddingTop">8dp</dimen>
+    <dimen name="titlePaddingBottom">8dp</dimen>
+
+    <!-- detail view -->
+    <dimen name="detailViewDesiredHeight">200dp</dimen>
+
+    <dimen name="detailViewBottomLineHeight">24dp</dimen>
+    <dimen name="fonLineswWeight">0.5dp</dimen>
+    <dimen name="chartDetailLineHeight">2.0dp</dimen>
+    <dimen name="labelSize">11sp</dimen>
+    <dimen name="labelPadding">6dp</dimen>
+    <dimen name="selectedLineWeight">1.5dp</dimen>
+    <dimen name="selectedCircleRadius">4dp</dimen>
+    <dimen name="infoWindowFingerPadding">16dp</dimen>
+    <dimen name="infoWindowRoutedCorners">6dp</dimen>
+    <dimen name="infoWindowPadding">6dp</dimen>
+    <dimen name="infoWindowShadow">1.5dp</dimen>
+    <dimen name="infoWindowTitleSize">16dp</dimen>
+    <dimen name="infoWindowLabelSize">10dp</dimen>
+    <dimen name="infoWindowLabelValSize">16dp</dimen>
+
+    <!-- nav view -->
+    <dimen name="navViewDesiredHeight">42dp</dimen>
+    <dimen name="chartNavBorderWidth">5dp</dimen>
+    <dimen name="chartNavBorderTopHeight">1.5dp</dimen>
+    <dimen name="chartNavLineTopBottomPadding">3dp</dimen>
+
+    <dimen name="chartNavLineWeight">1.2dp</dimen>
+    <dimen name="chartNavPointWeight">0.9dp</dimen>
+</resources>
